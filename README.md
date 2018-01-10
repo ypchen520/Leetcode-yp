@@ -1,6 +1,8 @@
 # Leetcode-yp
 ==========================================
+
                  LeetCode      
+
 ==========================================
 
 Just trying to do something about my first
@@ -10,6 +12,7 @@ Any suggestion will be very much welcome
 and appreciated!
 
 //////////////////////////////////////////
+
 Note:
 
 The code will be simple in the beginning.
